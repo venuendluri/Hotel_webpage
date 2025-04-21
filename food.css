@@ -1,0 +1,148 @@
+.backround{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+#nav1{
+    color: black;
+}
+#nav2{
+    color: black;
+}
+#nav3{
+    color: black;
+}
+#nav4{
+    color: black;
+}
+.image{
+    height: 40px;
+    width: 40px;
+}
+.heading{
+    color: white;
+    font-family: "Roboto";
+    font-style: normal;
+   
+}
+.button1{
+    color:white;
+    background-color: #d0b200;
+    width: 120px;
+    height: 40px;
+    border-radius: 7px;
+    border-width: 0px;
+    margin-right: 10px;
+}
+.button2{
+    background-color: transparent;
+    color: #d0b200;
+    border-color: #d0b200;
+    border-radius: 7px;
+    border-width: 1px;
+    border-style: solid;
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+}
+.main_menu{
+    text-align: center;
+}
+.whychooseus{
+    background-color: #f9fbfe;
+}
+.heading2{
+    font-weight: bold;
+    color: rgb(69, 68, 68);
+    
+}
+.card1{
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    border-style: solid;
+    border-color: #e5eaf4;
+    border-width: 1px;
+    padding: 20px;
+    height: 280px;
+}
+.paragraph{
+    color: #7b8794;
+}
+.heading3{
+    color: rgb(95, 91, 91);
+}
+.head1{
+    color: #183b56;
+}
+.explore{
+    background-color: white;
+}
+.anc{
+    color: #d0b200;
+}
+.imag{
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card3{
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 15px;
+}
+.healthyfoodsection{
+    background-color: #f9fbfe;
+}
+.deliverypayment{
+    background-color: white;
+}
+.head2{
+    color: #183b56;
+    font-weight: 700;
+    font-size: 28px;
+}
+.imgg{
+    width: 270px;
+}
+.postimg{
+    width: 50px;
+   height: 50px;
+   margin-right: 28px;
+}
+.giftsection{
+    background-color: #d0b2001a;
+}
+.followus{
+    background-color: white;
+}
+.icon1{
+    color: #d0b200;
+    font-size: 35px;
+}
+.bg-follow{
+    background-color: #faf7e8;
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    text-align: center;
+    padding-top: 23px;
+    padding-left: 1px;
+    margin: 20px;
+}
+.footer {
+    background-color: #0d2436;
+  }
+  .footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
